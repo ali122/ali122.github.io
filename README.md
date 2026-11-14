@@ -1,10 +1,7 @@
 # ali122.github.io
 
-Redirect only. Old links from before the GitHub rename are forwarded to
-<https://abtravels.github.io> while keeping the path, query string and hash.
+Retired. The redirect to https://abtravels.github.io has been removed (v2.59+ / new host).
 
-- `/travel-office-hisab/` → app on the new account
-- `/travel-office-hisab/company/` → company website root
-- anything else → same path on the new domain
+AB Travels app: https://abtravels.github.io/travel-office-hisab/
+Company site: https://abtravels.github.io/
 
-`404.html` does the same, so unknown paths still redirect.
